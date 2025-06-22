@@ -4,6 +4,6 @@
 buah = ["Semangka", "Pisang", "Apel", "Durian"]
 x = buah.copy()
 # ini copy
-print(x)
+print(f"Ini adalah copy {x}")
 # ini asli
-print(buah)
+print(f"ini adalah asli {buah}")
